@@ -10,3 +10,6 @@
 
 :heart: [Descending Number](https://lightoj.com/problem/dimik-descending-number) <span><b><----></b></span>
 :heavy_check_mark: <a href="https://github.com/Masum-SM/52_Problems_By_Tamim_Shahriar_Shubin/blob/main/DecendingNumber.cpp"><b>Solution</b></a>
+  
+:heart: [Divisor](https://lightoj.com/problem/dimik-divisor) <span><b><----></b></span>
+:heavy_check_mark: <a href="https://github.com/Masum-SM/52_Problems_By_Tamim_Shahriar_Shubin/blob/main/Divisor.cpp"><b>Solution</b></a>
