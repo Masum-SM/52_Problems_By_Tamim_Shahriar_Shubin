@@ -16,3 +16,6 @@
   
 :heart: [Summation](https://lightoj.com/problem/dimik-summation) <span><b><----></b></span>
 :heavy_check_mark: <a href="https://github.com/Masum-SM/52_Problems_By_Tamim_Shahriar_Shubin/blob/main/summation.cpp"><b>Solution</b></a>
+
+:heart: [Count Numbers](https://lightoj.com/problem/dimik-count-numbers) <span><b><----></b></span>
+:heavy_check_mark: <a href="https://github.com/Masum-SM/52_Problems_By_Tamim_Shahriar_Shubin/blob/main/Count_Number.cpp"><b>Solution</b></a>
